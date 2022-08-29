@@ -4,7 +4,7 @@ Aqui tem um pouco sobre mim:
 
 - 🔭 Atualmente trabalho de forma independente;
 - 👨🏾‍🎓 Minha área é a de Front-End;
-- 🌱 Estou aprendendo VUE.js;
+- 🌱 Estou aprendendo ReactBase;
 
 <div >
 
