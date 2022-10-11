@@ -25,7 +25,7 @@ Aqui tem um pouco sobre mim:
 </div> <br>
 
 <div> 
-  <a href = "mailto:ewetondk6@gmail.com">
+  <a href = "mailto:eweton.silva@nivelzero.com.br">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <a target="_blank" href="https://www.linkedin.com/in/ewerton-silva-52001a1a0/">
